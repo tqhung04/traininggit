@@ -13,3 +13,4 @@ change remote_branch from local
 abc
 master
 master
+br7
